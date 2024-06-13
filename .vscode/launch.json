@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Inheritance",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/AbstractClass/AbstractClass.csproj",
+            "launchConfigurationId": "TargetFramework=;AbstractClass"
+        }
+    ]
+}
