@@ -1,0 +1,15 @@
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/bin/Debug/net8.0/Interface
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/bin/Debug/net8.0/Interface.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/Interface/obj/Debug/net8.0/ref/Interface.dll
