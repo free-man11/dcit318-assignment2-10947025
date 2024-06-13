@@ -1,0 +1,15 @@
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/bin/Debug/net8.0/AbstractClass
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.sourcelink.json
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/Users/phinehasfreeman/Downloads/dcit318-assignment2-10947025/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll
